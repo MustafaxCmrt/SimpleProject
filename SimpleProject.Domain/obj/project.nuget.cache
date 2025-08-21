@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "68r+iVu7uts=",
+  "success": true,
+  "projectFilePath": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Domain/SimpleProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/mustafacomert/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/mustafacomert/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

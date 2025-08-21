@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevProjects\\SimpleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\leftmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\leftmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\wwwroot\\assets\\js\\pages\\brand\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\wwwroot\\assets\\js\\pages\\brand\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|d:\\devprojects\\simpleproject\\simpleproject.webadmin\\wwwroot\\assets\\js\\pages\\brand\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{04FDA73D-9BE8-4DF3-8CFC-8760AB462030}|SimpleProject.WebAdmin\\SimpleProject.WebAdmin.csproj|solutionrelative:simpleproject.webadmin\\wwwroot\\assets\\js\\pages\\brand\\edit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D0F088-5C3E-473C-B06A-1D3919F5E094}|SimpleProject.Services\\SimpleProject.Services.csproj|d:\\devprojects\\simpleproject\\simpleproject.services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D0F088-5C3E-473C-B06A-1D3919F5E094}|SimpleProject.Services\\SimpleProject.Services.csproj|solutionrelative:simpleproject.services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D0F088-5C3E-473C-B06A-1D3919F5E094}|SimpleProject.Services\\SimpleProject.Services.csproj|d:\\devprojects\\simpleproject\\simpleproject.services\\customfieldservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D0F088-5C3E-473C-B06A-1D3919F5E094}|SimpleProject.Services\\SimpleProject.Services.csproj|solutionrelative:simpleproject.services\\customfieldservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC529EFD-7F77-4697-9BBD-48C8B40E4219}|SimpleProject.Domain\\SimpleProject.Domain.csproj|d:\\devprojects\\simpleproject\\simpleproject.domain\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC529EFD-7F77-4697-9BBD-48C8B40E4219}|SimpleProject.Domain\\SimpleProject.Domain.csproj|solutionrelative:simpleproject.domain\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC529EFD-7F77-4697-9BBD-48C8B40E4219}|SimpleProject.Domain\\SimpleProject.Domain.csproj|d:\\devprojects\\simpleproject\\simpleproject.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC529EFD-7F77-4697-9BBD-48C8B40E4219}|SimpleProject.Domain\\SimpleProject.Domain.csproj|solutionrelative:simpleproject.domain\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541F54D6-B716-4C6C-BC30-029065A7E121}|SimpleProject.Data\\SimpleProject.Data.csproj|d:\\devprojects\\simpleproject\\simpleproject.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541F54D6-B716-4C6C-BC30-029065A7E121}|SimpleProject.Data\\SimpleProject.Data.csproj|solutionrelative:simpleproject.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeftMenu.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\LeftMenu.cs",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\LeftMenu.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\LeftMenu.cs",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\LeftMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:17:42.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\Views\\AdminUsers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T10:17:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T10:16:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Views\\Brands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\Views\\Brands\\Edit.cshtml",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Views\\Brands\\Edit.cshtml",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\Views\\Brands\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T10:16:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:15:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\index.js",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\index.js",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\index.js",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-12T10:15:03.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit.js",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\edit.js",
+              "RelativeDocumentMoniker": "SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\edit.js",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\edit.js",
+              "RelativeToolTip": "SimpleProject.WebAdmin\\wwwroot\\assets\\js\\pages\\brand\\edit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-12T10:15:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomFieldService.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.Services\\CustomFieldService.cs",
+              "RelativeDocumentMoniker": "SimpleProject.Services\\CustomFieldService.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.Services\\CustomFieldService.cs",
+              "RelativeToolTip": "SimpleProject.Services\\CustomFieldService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:13:05.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "SimpleProject.Services\\BrandService.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.Services\\BrandService.cs",
+              "RelativeToolTip": "SimpleProject.Services\\BrandService.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAkwJMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:12:33.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleProject.Data\\AppDbContext.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.Data\\AppDbContext.cs",
+              "RelativeToolTip": "SimpleProject.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:11:15.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.Domain\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "SimpleProject.Domain\\Entities\\Brand.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.Domain\\Entities\\Brand.cs",
+              "RelativeToolTip": "SimpleProject.Domain\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:10:52.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "D:\\DevProjects\\SimpleProject\\SimpleProject.Domain\\Dtos\\BrandDto.cs",
+              "RelativeDocumentMoniker": "SimpleProject.Domain\\Dtos\\BrandDto.cs",
+              "ToolTip": "D:\\DevProjects\\SimpleProject\\SimpleProject.Domain\\Dtos\\BrandDto.cs",
+              "RelativeToolTip": "SimpleProject.Domain\\Dtos\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:05:25.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

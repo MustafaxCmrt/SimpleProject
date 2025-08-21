@@ -1,0 +1,2553 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/css/custom.css",
+      "PackagePath": "staticwebassets/assets/css/custom.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/css/styles.css",
+      "PackagePath": "staticwebassets/assets/css/styles.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/icons.json",
+      "PackagePath": "staticwebassets/assets/icons.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/auth-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/auth-bg.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/desktop-dark.png",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/desktop-dark.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/desktop-logo.png",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/desktop-logo.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/desktop-white.png",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/desktop-white.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/favicon.ico",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/favicon.ico"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/toggle-dark.png",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/toggle-dark.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/toggle-logo.png",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/toggle-logo.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/brand-logos/toggle-white.png",
+      "PackagePath": "staticwebassets/assets/images/brand-logos/toggle-white.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/desktop-logo.svg",
+      "PackagePath": "staticwebassets/assets/images/desktop-logo.svg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/file.svg",
+      "PackagePath": "staticwebassets/assets/images/file.svg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/argentina_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/argentina_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/china_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/china_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/french_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/french_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/germany_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/germany_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/italy_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/italy_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/russia_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/russia_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/spain_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/spain_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/uae_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/uae_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/flags/us_flag.jpg",
+      "PackagePath": "staticwebassets/assets/images/flags/us_flag.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/loader.svg",
+      "PackagePath": "staticwebassets/assets/images/loader.svg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/no-image.png",
+      "PackagePath": "staticwebassets/assets/images/no-image.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/toggle-logo.png",
+      "PackagePath": "staticwebassets/assets/images/toggle-logo.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/images/user.png",
+      "PackagePath": "staticwebassets/assets/images/user.png"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/defaultmenu.js",
+      "PackagePath": "staticwebassets/assets/js/defaultmenu.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/adminrole/edit.js",
+      "PackagePath": "staticwebassets/assets/js/pages/adminrole/edit.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/adminrole/index.js",
+      "PackagePath": "staticwebassets/assets/js/pages/adminrole/index.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/adminuser/edit.js",
+      "PackagePath": "staticwebassets/assets/js/pages/adminuser/edit.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/adminuser/index.js",
+      "PackagePath": "staticwebassets/assets/js/pages/adminuser/index.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/brand/edit.js",
+      "PackagePath": "staticwebassets/assets/js/pages/brand/edit.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/brand/index.js",
+      "PackagePath": "staticwebassets/assets/js/pages/brand/index.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/common.js",
+      "PackagePath": "staticwebassets/assets/js/pages/common.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/customfield/edit-tabs.js",
+      "PackagePath": "staticwebassets/assets/js/pages/customfield/edit-tabs.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/customfield/edit.js",
+      "PackagePath": "staticwebassets/assets/js/pages/customfield/edit.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/customfield/index.js",
+      "PackagePath": "staticwebassets/assets/js/pages/customfield/index.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/customfieldoption/edit.js",
+      "PackagePath": "staticwebassets/assets/js/pages/customfieldoption/edit.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/pages/customfieldoption/index.js",
+      "PackagePath": "staticwebassets/assets/js/pages/customfieldoption/index.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/ruleway/file.js",
+      "PackagePath": "staticwebassets/assets/js/ruleway/file.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/ruleway/fileBrowser.js",
+      "PackagePath": "staticwebassets/assets/js/ruleway/fileBrowser.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/ruleway/grid.js",
+      "PackagePath": "staticwebassets/assets/js/ruleway/grid.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/ruleway/htmlEditor.js",
+      "PackagePath": "staticwebassets/assets/js/ruleway/htmlEditor.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/ruleway/main.js",
+      "PackagePath": "staticwebassets/assets/js/ruleway/main.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/js/ruleway/template.js",
+      "PackagePath": "staticwebassets/assets/js/ruleway/template.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.amd.js",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.amd.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.amd.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.amd.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.common.js",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.common.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.css",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.esm.js",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.esm.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.js",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/apexcharts.min.js",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/apexcharts.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ar.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ar.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/be-cyrl.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/be-cyrl.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/be-latn.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/be-latn.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ca.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ca.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/cs.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/cs.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/da.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/da.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/de.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/de.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/el.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/el.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/en.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/en.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/es.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/es.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/et.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/et.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/fa.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/fa.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/fi.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/fi.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/fr.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/fr.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/he.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/he.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/hi.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/hi.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/hr.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/hr.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/hu.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/hu.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/hy.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/hy.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/id.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/id.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/it.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/it.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ja.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ja.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ka.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ka.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ko.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ko.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/lt.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/lt.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/lv.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/lv.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ms.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ms.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/nb.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/nb.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/nl.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/nl.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/pl.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/pl.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/pt-br.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/pt-br.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/pt.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/pt.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/rs.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/rs.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ru.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ru.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/se.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/se.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/sk.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/sk.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/sl.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/sl.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/sq.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/sq.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/th.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/th.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/tr.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/tr.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/ua.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/ua.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/vi.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/vi.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/zh-cn.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/zh-cn.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/apexcharts/locales/zh-tw.json",
+      "PackagePath": "staticwebassets/assets/libs/apexcharts/locales/zh-tw.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/autoNumeric.js",
+      "PackagePath": "staticwebassets/assets/libs/autoNumeric.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/1-6YN2QKZ7.jpg",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/1-6YN2QKZ7.jpg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/assets/libs/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/flatpickr.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/flatpickr.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/flatpickr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/flatpickr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/ie.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/ie.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ar-dz.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ar-dz.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ar.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ar.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/at.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/at.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/az.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/az.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/be.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/be.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/bg.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/bg.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/bn.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/bn.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/bs.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/bs.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/cat.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/cat.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ckb.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ckb.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/cs.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/cs.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/cy.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/cy.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/da.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/da.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/de.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/de.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/default.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/default.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/eo.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/eo.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/es.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/es.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/et.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/et.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/fa.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/fa.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/fi.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/fi.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/fo.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/fo.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/fr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/fr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ga.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ga.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/gr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/gr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/he.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/he.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/hi.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/hi.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/hr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/hr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/hu.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/hu.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/hy.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/hy.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/id.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/id.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/is.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/is.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/it.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/it.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ja.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ja.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ka.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ka.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/km.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/km.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ko.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ko.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/kz.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/kz.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/lt.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/lt.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/lv.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/lv.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/mk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/mk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/mn.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/mn.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ms.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ms.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/my.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/my.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/nl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/nl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/nn.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/nn.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/no.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/no.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/pa.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/pa.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/pl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/pl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/pt.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/pt.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ro.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ro.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/ru.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/ru.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/si.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/si.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/sk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/sk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/sl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/sl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/sq.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/sq.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/sr-cyr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/sr-cyr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/sr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/sr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/sv.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/sv.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/th.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/th.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/tr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/tr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/uk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/uk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/uz.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/uz.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/uz_latn.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/uz_latn.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/vn.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/vn.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/zh-tw.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/zh-tw.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/l10n/zh.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/l10n/zh.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/confirmDate/confirmDate.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/confirmDate/confirmDate.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/confirmDate/confirmDate.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/confirmDate/confirmDate.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/labelPlugin/labelPlugin.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/labelPlugin/labelPlugin.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/minMaxTimePlugin.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/minMaxTimePlugin.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/momentPlugin.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/momentPlugin.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/monthSelect/style.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/monthSelect/style.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/rangePlugin.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/rangePlugin.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/scrollPlugin.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/scrollPlugin.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/plugins/weekSelect/weekSelect.min.js",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/plugins/weekSelect/weekSelect.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/airbnb.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/airbnb.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/confetti.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/confetti.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/dark.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/dark.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/light.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/light.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/material_blue.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/material_blue.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/material_green.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/material_green.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/material_orange.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/material_orange.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/flatpickr/themes/material_red.min.css",
+      "PackagePath": "staticwebassets/assets/libs/flatpickr/themes/material_red.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/bindings/inputmask.binding.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/bindings/inputmask.binding.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/colormask.css",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/colormask.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/colormask.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/colormask.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/colormask.min.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/colormask.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/inputmask.es6.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/inputmask.es6.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/inputmask.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/inputmask.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/inputmask.min.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/inputmask.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/jquery.inputmask.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/jquery.inputmask.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/inputmask/jquery.inputmask.min.js",
+      "PackagePath": "staticwebassets/assets/libs/inputmask/jquery.inputmask.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/additional-methods.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/additional-methods.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/jquery.validate.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ar.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ar.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ar.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ar.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_az.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_az.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_az.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_az.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_bg.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_bg.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_bg.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_bg.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_bn_BD.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_bn_BD.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_bn_BD.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ca.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ca.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ca.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ca.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_cs.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_cs.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_cs.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_cs.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_da.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_da.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_da.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_da.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_de.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_de.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_de.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_de.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_el.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_el.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_el.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_el.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_es.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_es.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_es.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_es.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_es_AR.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_es_AR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_es_AR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_es_AR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_es_PE.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_es_PE.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_es_PE.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_es_PE.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_et.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_et.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_et.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_et.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_eu.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_eu.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_eu.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_eu.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_fa.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_fa.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_fa.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_fa.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_fi.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_fi.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_fi.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_fi.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_fr.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_fr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_fr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_fr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ge.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ge.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ge.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ge.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_gl.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_gl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_gl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_gl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_he.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_he.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_he.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_he.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_hr.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_hr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_hr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_hr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_hu.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_hu.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_hu.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_hu.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_hy_AM.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_hy_AM.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_hy_AM.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_id.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_id.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_id.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_id.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_is.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_is.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_is.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_is.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_it.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_it.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_it.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_it.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ja.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ja.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ja.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ja.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ka.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ka.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ka.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ka.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_kk.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_kk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_kk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_kk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ko.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ko.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ko.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ko.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_lt.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_lt.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_lt.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_lt.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_lv.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_lv.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_lv.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_lv.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_mk.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_mk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_mk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_mk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_my.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_my.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_my.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_my.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_nl.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_nl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_nl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_nl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_no.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_no.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_no.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_no.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_pl.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_pl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_pl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_pl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_pt_BR.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_pt_BR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_pt_BR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_pt_PT.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_pt_PT.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_pt_PT.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ro.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ro.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ro.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ro.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ru.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ru.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ru.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ru.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sd.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sd.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sd.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sd.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_si.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_si.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_si.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_si.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sk.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sl.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sr.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sr_lat.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sr_lat.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sr_lat.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sv.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sv.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_sv.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_sv.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_th.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_th.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_th.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_th.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_tj.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_tj.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_tj.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_tj.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_tr.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_tr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_tr.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_tr.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_uk.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_uk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_uk.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_uk.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ur.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ur.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_ur.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_ur.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_vi.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_vi.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_vi.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_vi.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_zh.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_zh.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_zh.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_zh.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_zh_TW.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_zh_TW.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/messages_zh_TW.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_de.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_de.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_de.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_de.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_es_CL.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_es_CL.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_es_CL.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_es_CL.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_fi.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_fi.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_fi.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_fi.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_it.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_it.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_it.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_it.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_nl.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_nl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_nl.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_nl.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_pt.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_pt.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery-validation/localization/methods_pt.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery-validation/localization/methods_pt.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/assets/libs/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/loader/blockui.min.js",
+      "PackagePath": "staticwebassets/assets/libs/loader/blockui.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/popper.min.js",
+      "PackagePath": "staticwebassets/assets/libs/popper.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/index.html",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/index.html"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.css",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.eot",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.eot"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.glyph.json",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.glyph.json"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.less",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.less"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.module.less",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.module.less"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.scss",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.scss"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.styl",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.styl"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.svg",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.svg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.symbol.svg",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.symbol.svg"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.ttf",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.woff",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.woff"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/remixicon.woff2",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/symbol.html",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/symbol.html"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/remixicon/unicode.html",
+      "PackagePath": "staticwebassets/assets/libs/remixicon/unicode.html"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/css/select2-bootstrap-5-theme.min.css",
+      "PackagePath": "staticwebassets/assets/libs/select2/css/select2-bootstrap-5-theme.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/css/select2.css",
+      "PackagePath": "staticwebassets/assets/libs/select2/css/select2.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/css/select2.min.css",
+      "PackagePath": "staticwebassets/assets/libs/select2/css/select2.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/af.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/af.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ar.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ar.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/az.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/az.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/bg.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/bg.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/bn.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/bn.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/bs.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/bs.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ca.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ca.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/cs.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/cs.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/da.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/da.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/de.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/de.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/dsb.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/dsb.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/el.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/el.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/en.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/en.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/es.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/es.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/et.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/et.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/eu.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/eu.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/fa.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/fa.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/fi.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/fi.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/fr.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/fr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/gl.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/gl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/he.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/he.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/hi.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/hi.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/hr.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/hr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/hsb.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/hsb.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/hu.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/hu.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/hy.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/hy.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/id.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/id.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/is.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/is.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/it.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/it.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ja.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ja.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ka.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ka.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/km.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/km.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ko.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ko.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/lt.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/lt.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/lv.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/lv.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/mk.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/mk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ms.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ms.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/nb.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/nb.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ne.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ne.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/nl.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/nl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/pl.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/pl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ps.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ps.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/pt-BR.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/pt-BR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/pt.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/pt.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ro.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ro.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/ru.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/ru.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/sk.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/sk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/sl.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/sl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/sq.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/sq.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/sr-Cyrl.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/sr-Cyrl.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/sr.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/sr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/sv.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/sv.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/th.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/th.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/tk.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/tk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/tr.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/tr.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/uk.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/uk.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/vi.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/vi.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/zh-CN.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/zh-CN.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/i18n/zh-TW.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/i18n/zh-TW.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/select2.full.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/select2.full.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/select2.full.min.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/select2.full.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/select2.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/select2.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/select2/js/select2.min.js",
+      "PackagePath": "staticwebassets/assets/libs/select2/js/select2.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/simplebar/simplebar.css",
+      "PackagePath": "staticwebassets/assets/libs/simplebar/simplebar.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/simplebar/simplebar.js",
+      "PackagePath": "staticwebassets/assets/libs/simplebar/simplebar.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/simplebar/simplebar.min.css",
+      "PackagePath": "staticwebassets/assets/libs/simplebar/simplebar.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/simplebar/simplebar.min.js",
+      "PackagePath": "staticwebassets/assets/libs/simplebar/simplebar.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/sortable/Sortable.js",
+      "PackagePath": "staticwebassets/assets/libs/sortable/Sortable.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/sortable/Sortable.min.js",
+      "PackagePath": "staticwebassets/assets/libs/sortable/Sortable.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/font/summernote.eot",
+      "PackagePath": "staticwebassets/assets/libs/summernote/font/summernote.eot"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/font/summernote.hash",
+      "PackagePath": "staticwebassets/assets/libs/summernote/font/summernote.hash"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/font/summernote.ttf",
+      "PackagePath": "staticwebassets/assets/libs/summernote/font/summernote.ttf"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/font/summernote.woff",
+      "PackagePath": "staticwebassets/assets/libs/summernote/font/summernote.woff"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/font/summernote.woff2",
+      "PackagePath": "staticwebassets/assets/libs/summernote/font/summernote.woff2"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ar-AR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ar-AR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ar-AR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ar-AR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-az-AZ.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-az-AZ.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-az-AZ.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-az-AZ.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-bg-BG.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-bg-BG.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-bg-BG.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-bg-BG.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-bn-BD.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-bn-BD.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-bn-BD.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-bn-BD.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-bn-BD.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-bn-BD.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ca-ES.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ca-ES.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ca-ES.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ca-ES.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-cs-CZ.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-cs-CZ.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-cs-CZ.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-da-DK.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-da-DK.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-da-DK.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-da-DK.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-da-DK.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-de-CH.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-de-CH.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-de-CH.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-de-CH.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-de-CH.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-de-CH.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-de-DE.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-de-DE.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-de-DE.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-de-DE.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-de-DE.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-el-GR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-el-GR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-el-GR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-el-GR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-el-GR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-en-US.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-en-US.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-en-US.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-en-US.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-en-US.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-en-US.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-es-ES.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-es-ES.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-es-ES.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-es-ES.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-es-ES.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-es-EU.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-es-EU.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-es-EU.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-es-EU.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-es-EU.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fa-IR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fa-IR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fa-IR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fa-IR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fi-FI.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fi-FI.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fi-FI.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fi-FI.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fr-FR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fr-FR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fr-FR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fr-FR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-gl-ES.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-gl-ES.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-gl-ES.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-gl-ES.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-he-IL.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-he-IL.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-he-IL.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-he-IL.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-he-IL.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-hr-HR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-hr-HR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-hr-HR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-hr-HR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-hu-HU.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-hu-HU.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-hu-HU.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-hu-HU.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-id-ID.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-id-ID.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-id-ID.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-id-ID.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-id-ID.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-it-IT.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-it-IT.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-it-IT.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-it-IT.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-it-IT.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ja-JP.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ja-JP.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ja-JP.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ja-JP.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ko-KR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ko-KR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ko-KR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ko-KR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-lt-LT.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-lt-LT.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-lt-LT.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-lt-LT.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-lt-LV.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-lt-LV.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-lt-LV.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-lt-LV.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-mn-MN.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-mn-MN.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-mn-MN.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-mn-MN.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-nb-NO.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-nb-NO.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-nb-NO.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-nb-NO.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-nl-NL.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-nl-NL.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-nl-NL.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-nl-NL.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pl-PL.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pl-PL.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pl-PL.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pl-PL.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pt-BR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pt-BR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pt-BR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pt-BR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pt-PT.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pt-PT.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pt-PT.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pt-PT.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ro-RO.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ro-RO.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ro-RO.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ro-RO.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ru-RU.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ru-RU.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ru-RU.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ru-RU.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sk-SK.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sk-SK.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sk-SK.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sk-SK.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sl-SI.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sl-SI.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sl-SI.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sl-SI.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sr-RS-Latin.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sr-RS-Latin.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sr-RS.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sr-RS.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sr-RS.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sr-RS.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sv-SE.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sv-SE.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sv-SE.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sv-SE.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ta-IN.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ta-IN.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ta-IN.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ta-IN.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-th-TH.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-th-TH.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-th-TH.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-th-TH.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-th-TH.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-tr-TR.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-tr-TR.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-tr-TR.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-tr-TR.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-uk-UA.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-uk-UA.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-uk-UA.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-uk-UA.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-uz-UZ.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-uz-UZ.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-uz-UZ.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-vi-VN.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-vi-VN.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-vi-VN.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-vi-VN.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-zh-CN.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-zh-CN.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-zh-CN.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-zh-CN.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-zh-TW.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-zh-TW.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-zh-TW.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-zh-TW.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/lang/summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/lang/summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/plugin/databasic/summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/plugin/databasic/summernote-ext-databasic.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/plugin/databasic/summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/plugin/databasic/summernote-ext-databasic.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/plugin/hello/summernote-ext-hello.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/plugin/hello/summernote-ext-hello.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/plugin/specialchars/summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/plugin/specialchars/summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs4.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs4.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs4.css.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs4.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs4.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs4.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs4.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs4.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs4.min.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs4.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs4.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs4.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs5.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs5.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs5.css.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs5.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs5.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs5.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs5.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs5.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs5.min.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs5.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-bs5.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-bs5.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-lite.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-lite.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-lite.css.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-lite.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-lite.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-lite.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-lite.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-lite.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-lite.min.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-lite.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote-lite.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote-lite.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote.css.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote.css.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote.js.map",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote.js.map"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote.min.css",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote.min.css"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/summernote/summernote.min.js",
+      "PackagePath": "staticwebassets/assets/libs/summernote/summernote.min.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/toastify/toastify-js.js",
+      "PackagePath": "staticwebassets/assets/libs/toastify/toastify-js.js"
+    },
+    {
+      "Id": "/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/wwwroot/assets/libs/toastify/toastify.min.css",
+      "PackagePath": "staticwebassets/assets/libs/toastify/toastify.min.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SimpleProject.WebAdmin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SimpleProject.WebAdmin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SimpleProject.WebAdmin.props",
+      "PackagePath": "build\\SimpleProject.WebAdmin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SimpleProject.WebAdmin.props",
+      "PackagePath": "buildMultiTargeting\\SimpleProject.WebAdmin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SimpleProject.WebAdmin.props",
+      "PackagePath": "buildTransitive\\SimpleProject.WebAdmin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
