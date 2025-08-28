@@ -35,7 +35,8 @@ builder.Services.AddScoped<INotificationService, NotificationService>();
 builder.Services.AddScoped<IAnimalService, AnimalService>();
 builder.Services.AddScoped<ICollarService, CollarService>();
 builder.Services.AddScoped<IFoundReportService, FoundReportService>();
-
+builder.Services.AddScoped<IQrOwnershipService, QrOwnershipService>();
+builder.Services.AddScoped<IQrTransferService, QrTransferService>();
 builder.Services.AddControllersWithViews(options =>
 {
     options.Filters.Add(typeof(SessionFilterAttribute));

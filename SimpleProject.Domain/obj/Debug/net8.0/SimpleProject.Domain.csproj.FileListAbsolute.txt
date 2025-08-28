@@ -20,3 +20,4 @@ D:/DevProjects/SimpleProject/SimpleProject.Domain/obj/Debug/net8.0/ref/SimplePro
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Domain/obj/Debug/net8.0/refint/SimpleProject.Domain.dll
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Domain/obj/Debug/net8.0/SimpleProject.Domain.pdb
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Domain/obj/Debug/net8.0/ref/SimpleProject.Domain.dll
+/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Domain/obj/Debug/net8.0/SimpleProject.Domain.sourcelink.json

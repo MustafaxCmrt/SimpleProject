@@ -252,3 +252,4 @@ D:/DevProjects/SimpleProject/SimpleProject.WebAdmin/bin/Debug/net8.0/runtimes/os
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/obj/Debug/net8.0/SimpleProject.WebAdmin.MvcApplicationPartsAssemblyInfo.cs
+/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.WebAdmin/obj/Debug/net8.0/SimpleProject.WebAdmin.sourcelink.json

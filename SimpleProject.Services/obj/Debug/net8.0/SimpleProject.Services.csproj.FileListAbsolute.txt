@@ -32,3 +32,4 @@ D:/DevProjects/SimpleProject/SimpleProject.Services/obj/Debug/net8.0/ref/SimpleP
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Services/obj/Debug/net8.0/refint/SimpleProject.Services.dll
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Services/obj/Debug/net8.0/SimpleProject.Services.pdb
 /Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Services/obj/Debug/net8.0/ref/SimpleProject.Services.dll
+/Users/mustafacomert/Desktop/SimpleProject/SimpleProject.Services/obj/Debug/net8.0/SimpleProject.Services.sourcelink.json

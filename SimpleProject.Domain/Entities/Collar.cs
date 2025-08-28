@@ -18,4 +18,11 @@ public class Collar : Entity
     [ForeignKey(nameof(OwnerUser))]
     public int OwnerUserId { get; set; }
     public AdminUser OwnerUser { get; set; } = null!;
+    [ForeignKey(nameof(Subject))]
+    public int? SubjectId { get; set; }
+    public Subject? Subject { get; set; }
+    [Required, StringLength(20)]
+    public string AssetType { get; set; } = "PET";
+    [StringLength(120)]
+    public string? FriendlyName { get; set; }
 }
